@@ -1,5 +1,7 @@
 # ClaudeAI-DemoApp
 
+![](./images/simulator-demo.jpeg)
+
 A dynamic Xcode project generated via prompts from the ClaudeAI Desktop App. This project is designed to experiment with AI-driven development and includes a robust architecture featuring a ProfileView, a network layer, and a ViewModel utilizing SwiftData.
 
 Claude Playground is an experimental project where AI meets iOS/macOS development. The entire project was prompted and partially generated using the ClaudeAI Desktop App.
