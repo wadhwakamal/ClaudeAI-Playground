@@ -1,6 +1,6 @@
 # ClaudeAI-DemoApp
 
-![](./images/simulator-demo.jpeg)
+![](https://github.com/wadhwakamal/ClaudeAI-Playground/blob/main/Images/simulator-demo.jpeg)
 
 A dynamic Xcode project generated via prompts from the ClaudeAI Desktop App. This project is designed to experiment with AI-driven development and includes a robust architecture featuring a ProfileView, a network layer, and a ViewModel utilizing SwiftData.
 
